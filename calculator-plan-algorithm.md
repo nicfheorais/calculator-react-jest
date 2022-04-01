@@ -1,4 +1,4 @@
-#Calculator using TDD
+# React Calculator using TDD
 
 ## Algorithm for MVP
 
