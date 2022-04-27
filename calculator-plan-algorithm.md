@@ -1,11 +1,11 @@
-#Calculator using TDD
+# React Calculator using TDD
 
 ## Algorithm for MVP
 
 ### setup:
 
 - Draw a display
-- Draw a 9-9 numbers grid
+- Draw a 0-9 numbers grid
 - draw operators
 - draw a equals sign
 
